@@ -1,0 +1,3 @@
+Main-Class: org.pucp.airsoft.program.main.Principal
+Class-Path: airsoftManagementModel.jar airsoftCompanies.jar airsoftEngines.jar
+

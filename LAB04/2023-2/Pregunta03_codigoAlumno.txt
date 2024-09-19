@@ -1,0 +1,10 @@
+javac .\org\pucp\airsoft\companies\model\*.java
+
+jar cf airsoftCompanies.jar .\org\pucp\airsoft\companies\model\*.class
+
+jar cf airsoftCompanies.jar .\*.class
+del *class
+
+cd ..\..
+
+cd engines\model
